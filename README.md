@@ -1,6 +1,7 @@
 # RecipeApp
+(Currently under construction)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
+This is the front-end of a full-stack project. View the back-end [here](https://github.com/Mimitwinkle/Recipe-API).
 
 ## Development server
 
